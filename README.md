@@ -1,4 +1,4 @@
-### README: Understanding Satellite Imagery and Raster Data
+# Understanding Satellite Imagery and Raster Data
 
 #### **Introduction to Satellite Imagery**
 
@@ -155,3 +155,8 @@ plt.show()
 In this lesson, we introduced the concept of **satellite imagery**, explained **remote sensing**, and covered the technical details of **TIFF** and **GeoTIFF** files. We explored how to download and process satellite data using the **EarthPy** Python package, focusing on **Landsat 8** data. By stacking and visualizing different spectral bands, we gain a deeper understanding of Earth's surface and can extract meaningful insights from the imagery.
 
 This knowledge forms the basis for more advanced remote sensing applications, such as vegetation analysis, land use classification, and environmental monitoring.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
